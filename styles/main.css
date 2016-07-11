@@ -1,0 +1,11 @@
+body { /* selectors */
+	background-color: red;
+}
+
+h1 {
+	background-color: green;
+}
+
+.main-title {
+	background-color: white;
+}
